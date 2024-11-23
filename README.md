@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning physics, math, and more programming skills.
 - 💞️ I’m looking to collaborate on any STEM projects!
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I like the Ponziani and Sicilian Dragon (if you know, you know).
+- ⚡ Fun fact: I like the Ponziani and Sicilian Dragon.
 
 <!---
 mbayder/mbayder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
